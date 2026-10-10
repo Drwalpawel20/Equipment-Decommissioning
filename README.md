@@ -34,22 +34,6 @@ The goal is to cut manual data entry, eliminate transcription errors and make th
 - 📝 **Generation report**: a text report summarising each generation run
 - 🔐 **Secure configuration**: credentials stored in environment variables, never in source code
 
-## 🖼️ Screenshots
-
-<div align="center">
-
-| Main window | Document generation |
-| :---: | :---: |
-| <img src="docs/screenshots/screenshot-1.png" alt="Main window" width="420"> | <img src="docs/screenshots/screenshot-2.png" alt="Document generation" width="420"> |
-
-| Template editor | Result / printing |
-| :---: | :---: |
-| <img src="docs/screenshots/screenshot-3.png" alt="Template editor" width="420"> | <img src="docs/screenshots/screenshot-4.png" alt="Result and printing" width="420"> |
-
-</div>
-
-<!-- TODO: adjust the captions above to match what each screenshot actually shows -->
-
 ## 🛠️ Technology Stack
 
 | Category | Technology | Purpose |
